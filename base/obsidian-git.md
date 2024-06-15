@@ -55,6 +55,9 @@ git push -u origin main
 
 ![[Pasted image 20240616032134.png]]
 
+4) Настроить в Obsidian Git регулярный **backup** (commit & push) и **pull**.
+
+![[Pasted image 20240616041907.png]]
 
 # Для Android
 
