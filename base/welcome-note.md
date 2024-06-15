@@ -1,8 +1,10 @@
-This is your new *vault*.
+2024-06-16 00:27
 
-Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
+1) Включить Community Plugins:
 
-When you're ready, delete this note and make the vault your own.
+> Settings -> Community Plugins -> Turn on Community Plugins
 
-[[kanban-board]]
-[[obsidian-git]]
+2) Настроить плагин - [[obsidian-git]]
+3) Изучить [[obsidian-полезности]]
+4) Изучить [[obsidian-горячие-клавиши]] 
+5) Приступить к созданию заметок после изучения [[процесс-создания-заметок|процесса-создания-заметок]]. 

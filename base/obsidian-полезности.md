@@ -3,7 +3,7 @@
 # Настроить плагины
 
 - Ribbon Menu
-![[Pasted image 20240616040535.png|400]]
+ ![[Pasted image 20240616044939.png|400]]
 
 - cMenu
 ![[Pasted image 20240616040617.png|600]]

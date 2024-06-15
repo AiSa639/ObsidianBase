@@ -1,12 +1,12 @@
 документация: [01 Start here - Git Documentation - Obsidian Publish](https://publish.obsidian.md/git-doc/01+Start+here)
 
 
-1) Cгенерировать PERSONAL_ACCESS_TOKEN, который будет использоваться вместо **пароля**. 
+1) Cгенерировать PERSONAL_ACCESS_TOKEN в GitHub, который будет использоваться вместо **пароля**. 
 
 	Github -> Settings -> Developer Settings -> Personal Access Token -> Tokens (classic) -> Generate New Token
 
 
-Создать репозиторий (HTTPS)
+Создать репозиторий в GitHub:
 >https://github.com/AiSa639/ObsidianBase.git
 
 **Username** 
