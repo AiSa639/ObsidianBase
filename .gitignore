@@ -1,0 +1,15 @@
+/.trash/
+
+
+# Ignore Smart Connections folder because embeddings file is large and updated frequently
+.smart-connections
+*-MacBook Pro*
+data.json
+workspace.json
+workspace.xml
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+.obsidian/page-preview.json
+.obsidian/graph.json
+.obsidian/text-generator.json
+.obsidian/plugins/remember-cursor-position/cursor-positions.json

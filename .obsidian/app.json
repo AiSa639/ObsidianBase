@@ -1,0 +1,42 @@
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "base",
+  "attachmentFolderPath": "files",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "userIgnoreFilters": [
+    "utility/textgenerator/",
+    "utility/textgenerator/prompts/"
+  ],
+  "mobileToolbarCommands": [
+    "global-search:open",
+    "file-explorer:new-file-in-new-pane",
+    "file-explorer:new-file",
+    "handwritten-notes:modal-create-embed",
+    "editor:insert-wikilink",
+    "obsidian-copy-block-link:copy-embed-to-block",
+    "insert-template",
+    "editor:toggle-bold",
+    "editor:paste",
+    "editor:toggle-checklist-status",
+    "editor:set-heading",
+    "editor:toggle-italics",
+    "editor:undo",
+    "editor:redo",
+    "editor:attach-file",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:toggle-keyboard",
+    "random-note",
+    "editor:configure-toolbar",
+    "cmdr:open-commander-settings"
+  ],
+  "promptDelete": false,
+  "mobilePullAction": "command-palette:open",
+  "spellcheck": false
+}
