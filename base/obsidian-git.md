@@ -65,7 +65,7 @@ git push -u origin main
 
 ## Гит клиент
 
-Скачать гит-клиента - [Приложения в Google Play – MGit](https://play.google.com/store/apps/details?id=com.manichord.mgit&pcampaignid=web_share)
+Скачать гит-клиент - [Приложения в Google Play – MGit](https://play.google.com/store/apps/details?id=com.manichord.mgit&pcampaignid=web_share)
 Нужен чтобы скачать свой репозиторий.
 Остальные функции (commit, pull, push и т.д) можно вызывать из самого Obsidian. 
 
@@ -78,7 +78,7 @@ git push -u origin main
 
 # Для iOS
 ## Гит клиент
-Скачать гит-клиента - [PolyGit Git Client on the App Store](https://apps.apple.com/us/app/polygit-git-client/id1508942822)
+Скачать гит-клиент - [PolyGit Git Client on the App Store](https://apps.apple.com/us/app/polygit-git-client/id1508942822)
 Нужен чтобы скачать свой репозиторий.
 Остальные функции (commit, pull, push и т.д) можно вызывать из самого Obsidian. 
 
