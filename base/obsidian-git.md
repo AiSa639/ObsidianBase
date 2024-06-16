@@ -18,13 +18,6 @@
 
 # Для MacOs
 
-## Открытие боковой view-шки в Obsidian:
-
-Для **открытия** git view:
-> Obsidian git: Open source and control view
-
-![[Pasted image 20240616034034.png]]
-
 ##  Установка
 
 1) Установка и настройка Git с терминала (вариант с Xcode):
@@ -58,6 +51,15 @@ git push -u origin main
 4) Настроить в Obsidian Git регулярный **backup** (commit & push) и **pull**.
 
 ![[Pasted image 20240616041907.png]]
+
+
+## Открытие боковой view-шки в Obsidian:
+
+Для **открытия** git view:
+> Obsidian git: Open source and control view
+
+![[Pasted image 20240616034034.png]]
+
 
 # Для Android
 
