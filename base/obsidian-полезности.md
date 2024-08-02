@@ -34,3 +34,7 @@
 
 ![[Pasted image 20240616040948.png|300]]
 
+
+# Stacked Tabs
+
+Toggle Stacked Tabs
